@@ -9,7 +9,7 @@
 <h1 align="center">
  Why Github ?
   <h1>
- <img src=imgs/whyisgit.jpg height="42" width="42" align="center" />
+ <img src=imgs/whyisgit.jpg align="center" height="142" width="142"  />
 
   
 <sup>  <h3>
