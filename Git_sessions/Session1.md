@@ -7,6 +7,6 @@
 
 </h3>
 <h1>
-  **Why Github** ?
+ Why Github ?
   <h1>
  <img src=imgs/whyisgit.jpg />
