@@ -10,5 +10,20 @@
  Why Github ?
   <h1>
  <img src=imgs/whyisgit.jpg />
-           
- <br> It hosts your source code projects in a variety of different programming languages and keeps track of the various changes made to every iteration </br>
+<sup>
+  <h3>
+ It hosts your source code projects in a variety of different programming languages and keeps track of the various changes made to every iteration .
+  </h3> 
+    </sup>
+    <sub>
+      <h3>
+        which means,
+      </h3>
+    </sub>
+    <h3>
+      You can revert your changes and get back to writing clean,concise code!
+    </h3>
+    
+    
+    
+  
