@@ -24,6 +24,10 @@
   Branch
   </h2>
   
+  *A GitHub branch is used to work with different versions of a repository at the same time.*
+  
+  <img src=imgs/branches.jpg />
+  
   
     
     
