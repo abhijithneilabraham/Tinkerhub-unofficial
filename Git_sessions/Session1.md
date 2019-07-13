@@ -6,7 +6,7 @@
 >GitHub lets you (and others) work together on projects. 
 
 </h3>
-<h1 align="center>
+<h1 align="center">
  Why Github ?
   <h1>
  <img src=imgs/whyisgit.jpg />
